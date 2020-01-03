@@ -22,7 +22,12 @@
 			"bundleIdentifier": "com.adijha.tracker"
 		},
 		"android": {
-			"package": "com.adijha.tracker"
+			"package": "com.adijha.tracker",
+			"config": {
+				"googleMaps": {
+					"apiKey": "AIzaSyBTQYAdJULO-ZS5b6_jEFJSh5pm6Lxtu8k"
+				}
+			}
 		}
 	}
 }
